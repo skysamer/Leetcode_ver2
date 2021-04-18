@@ -1,0 +1,14 @@
+package linkedList;
+
+public class PalinLinked {
+	
+	public boolean isPalindrome(ListNode head) {
+        
+    }
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

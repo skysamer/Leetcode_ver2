@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ch8&apos; to &apos;linkedList&apos;&#x0D;&#x0A;- Original project: &apos;leetcode&apos;&#x0D;&#x0A;- Original element: &apos;leetcode/src/ch8&apos;&#x0D;&#x0A;- Renamed element: &apos;leetcode/src/linkedList&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ch8&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ch8" name="linkedList" qualified="false" references="true" stamp="1618665484280" textual="false" version="1.0"/>
+</session>
